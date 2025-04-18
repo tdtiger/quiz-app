@@ -1,0 +1,7 @@
+[
+    {
+        "question" : "JavaScriptで変数を宣言するためのキーワードは？",
+        "choices" : ["var", "int", "string", "define"],
+        "answer" : "var"
+    }
+]
