@@ -3,5 +3,10 @@
         "question" : "JavaScriptで変数を宣言するためのキーワードは？",
         "choices" : ["var", "int", "string", "define"],
         "answer" : "var"
+    },
+    {
+        "question" : "HTMLの文章構造で正しい要素は？",
+        "choices" : ["<header>", "<main>", "<footer>", "全て正しい"],
+        "answer" : "全て正しい"
     }
 ]
